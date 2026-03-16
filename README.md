@@ -13,3 +13,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 1 | Contains Duplicate | Hashing | ✅      |
 | Day 2 | Valid Parentheses  | Stack   | ✅      |
 | Day 2 | Binary Search      | Search  | ✅      |
+| Day 3 | Buy and Sell Stock | Window  | ✅      |
+| Day 3 | Longest Substring  | Window  | ✅      |
+| Day 3 | Reverse Linked List| List    | ✅      |
