@@ -18,3 +18,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 3 | Reverse Linked List| List    | ✅      |
 | Day 4 | Maximum Subarray   | Array   | ✅      |
 | Day 4 | Invert Binary Tree | Tree    | ✅      |
+| Day 5 | Merge Two Lists    | List    | ✅      |
+| Day 5 | Climbing Stairs    | DP      | ✅      |
+| Day 5 | Two Sum II         | 2 Pters | ✅      |
