@@ -23,3 +23,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 5 | Two Sum II         | 2 Pters | ✅      |
 | Day 6 | Number of Islands  | Graph   | ✅      |
 | Day 6 | Combination Sum    | Backtr. | ✅      |
+| Day 7 | Container w/ Water | 2 Pters | ✅      |
+| Day 7 | Course Schedule    | Graph   | ✅      |
+| Day 7 | 3Sum               | Array   | ✅      |
