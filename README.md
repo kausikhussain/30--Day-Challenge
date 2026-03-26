@@ -34,3 +34,5 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 10| Subsets            | Backtr. | ✅      |
 | Day 10| Valid Anagram      | String  | ✅      |
 | Day 10| Group Anagrams     | String  | ✅      |
+| Day 11| Search Rotated Arr | Binary S| ✅      |
+| Day 11| Find Min Rotated   | Binary S| ✅      |
