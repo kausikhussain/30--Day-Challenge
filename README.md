@@ -36,3 +36,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 10| Group Anagrams     | String  | ✅      |
 | Day 11| Search Rotated Arr | Binary S| ✅      |
 | Day 11| Find Min Rotated   | Binary S| ✅      |
+| Day 12| Pacific Atlantic   | Graph   | ✅      |
+| Day 12| Course Schedule II | Graph   | ✅      |
+| Day 12| Palindromic Subs   | DP / Str| ✅      |
