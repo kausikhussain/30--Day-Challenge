@@ -43,3 +43,5 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 13| Validate BST       | Tree    | ✅      |
 | Day 14| House Robber       | DP      | ✅      |
 | Day 14| Character Replacem.| Window  | ✅      |
+| Day 15| Kth Largest Element| Heap    | ✅      |
+| Day 15| Non-overlap Interv.| Greedy  | ✅      |
