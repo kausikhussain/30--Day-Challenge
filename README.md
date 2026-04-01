@@ -47,3 +47,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 15| Non-overlap Interv.| Greedy  | ✅      |
 | Day 16| Reorder List       | List    | ✅      |
 | Day 16| Level Order Travers| Tree    | ✅      |
+| Day 17| Trapping Rain Water| DP      | ✅      |
+| Day 17| Word Ladder        | Graph   | ✅      |
+
