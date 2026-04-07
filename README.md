@@ -49,4 +49,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 16| Level Order Travers| Tree    | ✅      |
 | Day 17| Trapping Rain Water| DP      | ✅      |
 | Day 17| Word Ladder        | Graph   | ✅      |
+| Day 18| Reverse String      | String  | ✅      |
+| Day 18| Pattern Printing    | Misc    | ✅      |
 
