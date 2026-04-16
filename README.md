@@ -57,4 +57,9 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 20| Implement Trie      | Trie    | ✅      |
 | Day 20| Word Dictionary     | Trie    | ✅      |
 | Day 20| Clone Graph         | Graph   | ✅      |
+| Day 21| Coin Change         | DP      | ✅      |
+| Day 21| Missing Number      | Bit/Math| ✅      |
+| Day 21| Number of 1 Bits    | Bit     | ✅      |
+| Day 21| Reverse Bits        | Bit     | ✅      |
+| Day 21| Counting Bits       | Bit/DP  | ✅      |
 
