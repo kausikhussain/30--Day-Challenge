@@ -54,4 +54,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 19| Remove Nth From End | List    | ✅      |
 | Day 19| Find Duplicate      | Array   | ✅      |
 | Day 19| Spiral Matrix       | Array   | ✅      |
+| Day 20| Implement Trie      | Trie    | ✅      |
+| Day 20| Word Dictionary     | Trie    | ✅      |
+| Day 20| Clone Graph         | Graph   | ✅      |
 
