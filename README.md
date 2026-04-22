@@ -68,4 +68,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 23| Min Window Substring| Window  | ✅      |
 | Day 23| Serialize/Des. Tree | Tree/BFS| ✅      |
 | Day 23| Longest Inc Subseq  | DP      | ✅      |
+| Day 24| Word Break          | DP      | ✅      |
+| Day 24| Merge k Sorted Lists| Heap    | ✅      |
+| Day 24| Binary Tree Max Path| Tree    | ✅      |
 
