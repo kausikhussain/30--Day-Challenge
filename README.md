@@ -81,4 +81,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 27| Valid Sudoku        | Matrix  | ✅      |
 | Day 27| Gas Station         | Greedy  | ✅      |
 | Day 27| Evaluate RPN        | Stack   | ✅      |
+| Day 28| Kth Smallest in BST | Tree    | ✅      |
+| Day 28| Median Data Stream  | Heap    | ✅      |
 
