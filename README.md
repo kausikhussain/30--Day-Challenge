@@ -78,4 +78,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 26| Multiply Strings    | Math/Str| ✅      |
 | Day 26| Integer to Roman    | Math/Str| ✅      |
 | Day 26| Roman to Integer    | Math/Str| ✅      |
+| Day 27| Valid Sudoku        | Matrix  | ✅      |
+| Day 27| Gas Station         | Greedy  | ✅      |
+| Day 27| Evaluate RPN        | Stack   | ✅      |
 
