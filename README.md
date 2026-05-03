@@ -83,4 +83,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 27| Evaluate RPN        | Stack   | ✅      |
 | Day 28| Kth Smallest in BST | Tree    | ✅      |
 | Day 28| Median Data Stream  | Heap    | ✅      |
+| Day 29| Longest Common Sub. | DP      | ✅      |
+| Day 29| Edit Distance       | DP/Str  | ✅      |
+| Day 29| Target Sum          | DP/Backt| ✅      |
 
