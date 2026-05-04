@@ -86,4 +86,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 29| Longest Common Sub. | DP      | ✅      |
 | Day 29| Edit Distance       | DP/Str  | ✅      |
 | Day 29| Target Sum          | DP/Backt| ✅      |
+| Day 30| Sliding Window Max  | Window  | ✅      |
+| Day 30| N-Queens            | Backtr. | ✅      |
+| Day 30| Median 2 Sorted Arr | Binary S| ✅      |
 
